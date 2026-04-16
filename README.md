@@ -1,2 +1,3 @@
 # Deloitte-Growth-Analysis-Report-FY19-24
-Interactive dashboard analyzing revenue trajectories across service lines and industries. Using Python and Power BI, I tracked YoY growth and CAGR to identify performance drivers and market outliers. This project translates complex fiscal data into actionable business intelligence.
+## Overview
+This project provides a comprehensive multi-year analysis of corporate revenue streams, focusing on the performance of diverse business units and industry verticals. By transforming static annual review data into an interactive visual narrative, the dashboard identifies historical growth patterns, market shifts, and key performance indicators (KPIs) across a six-year horizon.
