@@ -8,4 +8,4 @@ This project provides a comprehensive multi-year analysis of corporate revenue s
 4. **Deloitte UK Annual Review (2024)**: *Contains business & esg performance metrics FY22-24* https://www.deloitte.com/content/dam/assets-zone2/uk/en/docs/about/2024/deloitte-uk-annual-review-2024-business-and-esg-performance-metrics.pdf
 
 ## Current Status
-Data Cleaning & Transformation Complete | 🟡 Dashboarding In Progress.
+Data Cleaning & Transformation Complete | Dashboarding In Progress.
